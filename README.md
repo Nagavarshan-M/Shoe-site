@@ -1,8 +1,13 @@
-# React + Vite
+# 🚀 Shoe Store Landing Page 👟
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌟 About the Project
+This is a **Shoe Store Landing Page** built with **React** and styled using **Tailwind CSS**.  
+It is a simple frontend project designed to showcase a sleek and responsive UI.  
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [Shoe Store Website](https://shoe-site-nagavarshan.netlify.app/)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack  
+- ⚛️ **React** - For building UI components  
+- 🎨 **Tailwind CSS** - For modern and responsive styling  
+- 🌐 **Netlify** - For deployment  
+
